@@ -1,7 +1,7 @@
 # dictionary-app
 English dictionary App using JavaScript
 
-#### Demo: 
+#### Demo: https://adityaongit.github.io/dictionary/
 
 
 
